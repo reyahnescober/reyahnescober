@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reyahnescober
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning System Integration and Architecture
 - 💞️ I’m looking to collaborate on Github Projects
 - 📫 How to reach me: 22-33648@g.batstate-u.edu.p
 
